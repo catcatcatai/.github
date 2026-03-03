@@ -1,8 +1,6 @@
 # catcatcat
 
-Creative and AI agency in Tokyo. We build at the intersection of AI, design, and systems thinking.
-
-Not consultants. Builders.
+> imagining things▌ — designing creative systems for the future.
 
 ## Skills
 
