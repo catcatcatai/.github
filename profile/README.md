@@ -1,6 +1,6 @@
 # catcatcat
 
-> imagining things▌ — designing creative systems for the future.
+>imagining things█ — designing creative systems for the future.
 
 ## Skills
 
