@@ -15,8 +15,6 @@ Agent skills for Claude Code and other AI tools.
 | [extract](https://github.com/catcatcatai/extract-skill) | Knowledge extraction from URLs and files |
 | [cleanse](https://github.com/catcatcatai/cleanse-skill) | Analysis and optimization of CLAUDE.md and agent config |
 
-Install all: `/plugin marketplace add catcatcatai/marketplace`
-
 ## Tools
 
 | Tool | Description |
